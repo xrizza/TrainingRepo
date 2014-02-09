@@ -7,3 +7,5 @@ Testprogrammer1 strickt ein Schwarzes Loch
 Testprogrammer1 strikct weiter
 
 Testprogrammer1 hat ein schwarzes loch erschaffen 
+
+Testprgrammer2 ist fertig mit seinem schwarzen loch feature und push es auf seinen und den master branch
